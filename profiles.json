@@ -1,0 +1,32 @@
+[
+  {
+    "Billing": {
+      "Address": "14 Pendergast St.",
+      "Apt": "",
+      "City": "Brooklyn",
+      "FirstName": "Fred",
+      "LastName": "Smith",
+      "State": "NY",
+      "Zip": "11216"
+    },
+    "CCNumber": "4242424242424242",
+    "CVV": "424",
+    "CardType": "visa",
+    "Country": "US",
+    "Email": "billiard@gmail.com",
+    "ExpMonth": "04",
+    "ExpYear": "2024",
+    "Name": "testUS",
+    "Phone": "3472839485",
+    "Same": true,
+    "Shipping": {
+      "Address": "14 Pendergast St.",
+      "Apt": "",
+      "City": "Brooklyn",
+      "FirstName": "Fred",
+      "LastName": "Smith",
+      "State": "NY",
+      "Zip": "11216"
+    }
+  }
+]

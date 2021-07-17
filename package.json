@@ -1,0 +1,66 @@
+{
+  "name": "footsitesv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cacheable-lookup": "^5.0.4",
+    "cacheable-request": "^7.0.1",
+    "chalk": "^4.1.1",
+    "clone-response": "^1.0.2",
+    "csv-parser": "^3.0.0",
+    "decompress-response": "^6.0.0",
+    "defer-to-connect": "^2.0.1",
+    "end-of-stream": "^1.4.4",
+    "fast-xml-parser": "^3.19.0",
+    "fs": "^0.0.1-security",
+    "get-stream": "^5.2.0",
+    "got": "^11.8.2",
+    "http-cache-semantics": "^4.1.0",
+    "http2-wrapper": "^1.0.3",
+    "inquirer": "^8.1.0",
+    "json-buffer": "^3.0.1",
+    "keyv": "^4.0.3",
+    "lowercase-keys": "^2.0.0",
+    "mimic-response": "^1.0.1",
+    "minimist": "^1.2.5",
+    "node-adyen-encrypt": "^2.3.1",
+    "node-capmonster": "^0.1.4",
+    "normalize-url": "^4.5.1",
+    "once": "^1.4.0",
+    "p-cancelable": "^2.1.1",
+    "psl": "^1.8.0",
+    "pump": "^3.0.0",
+    "punycode": "^2.1.1",
+    "quick-lru": "^5.1.1",
+    "random-useragent": "^0.5.0",
+    "resolve-alpn": "^1.1.2",
+    "responselike": "^2.0.0",
+    "tunnel": "0.0.6",
+    "universalify": "^0.1.2",
+    "uuid": "^8.3.2",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js",
+  "pkg": {
+    "scripts": [
+      "foots.js"
+    ],
+    "assets": [
+      "node_modules/**/*"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYPX/FootlockerCLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZYPX/FootlockerCLI/issues"
+  },
+  "homepage": "https://github.com/ZYPX/FootlockerCLI#readme"
+}
